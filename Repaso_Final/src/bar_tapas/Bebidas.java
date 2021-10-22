@@ -11,7 +11,7 @@ package bar_tapas;
  */
 public class Bebidas {
    //DECLARAMOS VARIABLES 
-    private String nombre;
+    String nombre;
     private double precio;
 
     //CONSTRUCTOR
